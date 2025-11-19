@@ -17,3 +17,6 @@ pip install scipy -i https://pypi.tuna.tsinghua.edu.cn/simple
 2，多次运行训练集
 
 3，改变隐藏层的节点数量
+
+书籍作者主页：
+https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork
