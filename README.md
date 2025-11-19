@@ -1,5 +1,5 @@
-# book_read
-some my thoughts about the books I read
+# 记录看过的书籍
 
-below are the names of the books I have read:
-+ El Amor En Los Tiempos Del Colera
+霍乱时期的爱情
+
+python神经网络编程（makeyourownneuralnetwork）
